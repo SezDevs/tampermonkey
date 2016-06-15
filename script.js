@@ -1,7 +1,3 @@
-
-'use strict';
-
-
 $(function() {
 
   // Event for when the user tries to comment.
