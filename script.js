@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.4
 // @description  Prevents the "Share With Customer" button from being shown underneath the Comment box and ensures that only internal comments are available on the workflow transition screens
-// @author       Sara Milner <sm@amp.co>, Matthew Lishman <matthew.lishman@amp.co>, Matt Anstey <matthew.anstey@amp.co>, Luke Rodgers <lr@amp.co>, Claire Parker <claire.parker@amp.co>
+// @author       Sara Milner, Matthew Lishman, Matt Anstey, Luke Rodgers, Claire Parker
 // @match        https://ampersand.atlassian.net/*
 // @downloadURL  https://raw.githubusercontent.com/SezDevs/tampermonkey/master/script.js
 // @grant        none
